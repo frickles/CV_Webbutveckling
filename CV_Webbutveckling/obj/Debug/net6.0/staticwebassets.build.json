@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hcAmZmGnWKdxXa3zvhKw6tLMQAkemDXyVYnm2RBF0tg=",
+  "Hash": "9DN9VokotLxGbelknf/TDBcTmD81LLbJ3xeYcekne2c=",
   "Source": "CV_Webbutveckling",
   "BasePath": "_content/CV_Webbutveckling",
   "Mode": "Default",
@@ -168,6 +168,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\frida\\Desktop\\Programmering\\Skolan\\Kurs 6 - Webbutveckling Backend\\Kod\\CV_Webbutveckling\\CV_Webbutveckling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.morph.css",
+      "SourceId": "CV_Webbutveckling",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\frida\\Desktop\\Programmering\\Skolan\\Kurs 6 - Webbutveckling Backend\\Kod\\CV_Webbutveckling\\CV_Webbutveckling\\wwwroot\\",
+      "BasePath": "_content/CV_Webbutveckling",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.morph.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.morph.css"
+    },
+    {
+      "Identity": "C:\\Users\\frida\\Desktop\\Programmering\\Skolan\\Kurs 6 - Webbutveckling Backend\\Kod\\CV_Webbutveckling\\CV_Webbutveckling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.quartz.css",
+      "SourceId": "CV_Webbutveckling",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\frida\\Desktop\\Programmering\\Skolan\\Kurs 6 - Webbutveckling Backend\\Kod\\CV_Webbutveckling\\CV_Webbutveckling\\wwwroot\\",
+      "BasePath": "_content/CV_Webbutveckling",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.quartz.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.quartz.css"
     },
     {
       "Identity": "C:\\Users\\frida\\Desktop\\Programmering\\Skolan\\Kurs 6 - Webbutveckling Backend\\Kod\\CV_Webbutveckling\\CV_Webbutveckling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
