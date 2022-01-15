@@ -16,3 +16,9 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+img {
+    width: 15rem;
+    border-radius: 70px;
+    opacity: 70%;
+}
